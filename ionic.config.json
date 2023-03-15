@@ -1,0 +1,7 @@
+{
+  "name": "slide menu app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
